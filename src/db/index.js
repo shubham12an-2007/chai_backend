@@ -1,3 +1,5 @@
+// is file ka kaam hota hain hmare project ko safely mongodb se connect krna
+
 import mongoose from "mongoose";
 import { DB_NAME } from "../constants.js";
 
